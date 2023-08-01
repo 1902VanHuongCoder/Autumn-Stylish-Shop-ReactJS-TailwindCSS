@@ -1,0 +1,11 @@
+
+1. App.js
+Max-with: 1500px
+Min-height: 100vh
+
+2. Navbar
+- Logo: h = 40px, w = 40px
+- Width: 100%
+- Margin X: 40px
+- Margin Y: 8px
+-Background: white 

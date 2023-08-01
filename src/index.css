@@ -7,3 +7,10 @@
     @apply font-primary text-primary;
   }
 }
+
+
+@layer components {
+    .bg{
+      background-color: red;
+    }
+}
